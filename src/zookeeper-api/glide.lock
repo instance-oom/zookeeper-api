@@ -1,0 +1,18 @@
+hash: bd0d93387af556167d0ea6eb967463eacc59cd3441e0a0223f1527571533d059
+updated: 2016-08-01T16:46:05.7655229+08:00
+imports:
+- name: github.com/astaxie/beego
+  version: 88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a
+  subpackages:
+  - config
+  - context
+  - grace
+  - logs
+  - session
+  - toolbox
+  - utils
+- name: github.com/samuel/go-zookeeper
+  version: e64db453f3512cade908163702045e0f31137843
+  subpackages:
+  - zk
+testImports: []

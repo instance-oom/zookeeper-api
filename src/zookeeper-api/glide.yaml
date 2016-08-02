@@ -1,0 +1,6 @@
+package: zookeeper-api
+import:
+- package: github.com/astaxie/beego
+- package: github.com/samuel/go-zookeeper
+  subpackages:
+  - zk
